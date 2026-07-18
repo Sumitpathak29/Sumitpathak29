@@ -1,4 +1,4 @@
-Hi, I'm Sumit Pathak 👋 A Computer Science student passionate about Full Stack Development, AI/LLMs, and Blockchain. Always learning, always building.
+
 # 💫 About Me:
 Hi, I'm Sumit Pathak 👋 A Computer Science student passionate about Full Stack Development, AI/LLMs, and Blockchain. Always learning, always building.
 
