@@ -1,6 +1,19 @@
 
 # 💫 About Me:
-Hi, I'm Sumit Pathak 👋 A Computer Science student passionate about Full Stack Development, AI/LLMs, and Blockchain. Always learning, always building.
+
+Hi, I'm Sumit Pathak 👋
+
+🎓 B.Tech CSE student at Symbiosis Institute of Technology, Pune
+
+💻 Full Stack Developer | 🤖 LLM & Generative AI Enthusiast | 📊 Data Science
+
+Currently building projects in:
+- Full Stack Web Development
+- LLM Engineering & Generative AI
+- RAG, Fine-Tuning & AI Agents
+- Data Science & Exploratory Data Analysis
+
+Always learning, experimenting, and building.
 
 
 ## 🌐 Socials:
