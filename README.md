@@ -1,32 +1,184 @@
+<p align="center">
+  <a href="https://github.com/Sumitpathak29">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Sumit%20Pathak&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20%26%20AI%20Enthusiast&descSize=22&descAlignY=64" width="100%" alt="Sumit Pathak" />
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+things+that+solve+real+problems.;%3E+exploring+cloud+and+generative+AI.;%3E+learning%2C+building%2C+and+evolving." width="100%" alt="Typing SVG" />
+</p>
 
-# 💫 About Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitpathak29/">
+    <img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sumitpathak29">
+    <img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Hi, I'm Sumit Pathak 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Symbiosis-Pune-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
+</p>
 
-🎓 B.Tech CSE student at Symbiosis Institute of Technology, Pune
+## 🧬 about
 
-💻 Full Stack Developer | 🤖 LLM & Generative AI Enthusiast | 📊 Data Science
+```python
+me = {
+    "name": "Sumit Pathak",
+    "based": "Pune, India",
+    "education": "B.Tech CSE @ Symbiosis Institute of Technology",
+    "role": "Full Stack Developer",
+    "interests": [
+        "Cloud Computing",
+        "Generative AI & LLM Engineering",
+        "Data Science",
+        "Software Development"
+    ],
+    "learning": [
+        "AWS & Cloud Architecture",
+        "RAG & AI Agents",
+        "LLM Fine-Tuning",
+        "System Design"
+    ],
+    "languages": ["Python", "Java", "C++", "JavaScript"],
+    "mindset": "Learn. Build. Break. Improve."
+}
+```
 
-Currently building projects in:
-- Full Stack Web Development
-- LLM Engineering & Generative AI
-- RAG, Fine-Tuning & AI Agents
-- Data Science & Exploratory Data Analysis
+I'm a Computer Science undergraduate passionate about building practical software solutions and exploring emerging technologies.
 
-Always learning, experimenting, and building.
+My interests lie at the intersection of **Full Stack Development, Cloud Computing, Generative AI, and Data Science**.
 
+I enjoy taking ideas from concept to implementation, experimenting with new technologies, and understanding how things work under the hood.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumitpathak29/) 
+<details>
+<summary><b>🌱 My journey so far</b></summary>
+<br />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sumitpathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sumitpathak29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sumitpathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Area | What I'm exploring |
+|:---|:---|
+| Development | Full Stack Web Applications |
+| Cloud | AWS, Cloud Deployment & Infrastructure |
+| Generative AI | LLMs, RAG, Fine-Tuning & AI Agents |
+| Data Science | Python, SQL, EDA & Power BI |
+| Engineering | Problem Solving, Git & Software Development |
 
----
-[![](https://komarev.com/ghpvc/?username=Sumitpathak29&icon=0&color=0)](https://visitcount.itsvg.in)
+</details>
+
+## 🚀 projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud-Based Task Manager</h3>
+      <sub><b>Full Stack Development · Cloud Computing</b></sub>
+      <p>A full-stack task management application focused on building practical software with cloud deployment and AWS integration.</p>
+      <p>
+        <code>Python</code>
+        <code>Web Development</code>
+        <code>AWS</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Marketing Analytics Dashboard</h3>
+      <sub><b>Data Analytics · Business Intelligence</b></sub>
+      <p>An end-to-end analytics pipeline that analyzes marketing campaigns, audience engagement, conversions, and ROI through SQL, Python, and interactive Power BI dashboards.</p>
+      <p>
+        <code>Python</code>
+        <code>SQL</code>
+        <code>SQLite</code>
+        <code>Power BI</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Quantum Advisor</h3>
+      <sub><b>Collaborative Development · AI</b></sub>
+      <p>A collaborative AI-focused project involving planner graphs and committee-based agents.</p>
+      <p>
+        <code>Python</code>
+        <code>AI</code>
+        <code>Git</code>
+      </p>
+      <a href="https://github.com/sourav-singh-10/Quantum-Advisor">
+        <img src="https://img.shields.io/badge/View%20Repository-A21517?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 SignBridge</h3>
+      <sub><b>NLP · Sign Language Translation</b></sub>
+      <p>An AI-based concept exploring English-to-sign-language gloss translation using NLP models, sequence learning, and transformer-based approaches.</p>
+      <p>
+        <code>Python</code>
+        <code>NLP</code>
+        <code>LSTM</code>
+        <code>T5</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Sumitpathak29?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-A21517?style=for-the-badge&logo=github&logoColor=white" alt="More Projects" />
+  </a>
+</p>
+
+## 🧰 tech stack
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Development</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Cloud & Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,mysql,postgres,sqlite,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Data Science & AI</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitpathak29&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E5EE4E&icon_color=A21517&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitpathak29&theme=dark&hide_border=true&background=0A0A0A&ring=A21517&fire=E5EE4E&currStreakLabel=E5EE4E" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitpathak29&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E5EE4E&text_color=FFFFFF" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumitpathak29&style=for-the-badge&color=A21517&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>Working on something interesting? Let's connect.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitpathak29/">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Stay%20Curious.%20Keep%20Building.&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Stay Curious. Keep Building." />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
